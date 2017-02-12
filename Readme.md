@@ -19,3 +19,8 @@ Notes
  - [Stanfurd Statistical Learning](http://online.stanford.edu/course/statistical-learning-self-paced)
 - Other
  - [AWS credits for research](https://aws.amazon.com/research-credits/faq/)
+ - [AWS Educate FAQ](https://www.awseducate.com/faqs?app=2)
+ - [UC Davis AWS signup form](http://itcatalog.ucdavis.edu/form/uc-davis-aws-signup-form)
+ - [DIBS AWS Tutorial](http://dib-training.readthedocs.io/en/pub/2016-03-03-aws-br.html)
+ - [AWS Credits](https://aws.amazon.com/awscredits/)
+ - [AWS Activate signup](https://aws.amazon.com/activate/event/ngl16hck/)
