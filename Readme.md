@@ -25,3 +25,4 @@ Notes
  - [AWS Credits](https://aws.amazon.com/awscredits/)
  - [AWS Activate signup](https://aws.amazon.com/activate/event/ngl16hck/)
  - [Reddit | Way to get AWS promo credits](https://www.reddit.com/r/aws/comments/2xdorh/any_easy_ways_to_get_aws_promo_credits/)
+ - [AWS Educate](https://aws.amazon.com/education/awseducate/)
