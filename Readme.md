@@ -17,3 +17,5 @@ Notes
  -[CS231n AWS tutorial](http://cs231n.github.io/aws-tutorial/)
 - Related courses
  - [Stanfurd Statistical Learning](http://online.stanford.edu/course/statistical-learning-self-paced)
+- Other
+ - [AWS credits for research](https://aws.amazon.com/research-credits/faq/)
