@@ -6,7 +6,7 @@ Notes
 ----
 ## Resources dump
 - CS231 resources
- - [cs231n Syllabus](http://cs231n.stanford.edu/syllabus.html)
+ - [cs231n Syllabus (Slides + Notes)](http://cs231n.stanford.edu/syllabus.html)
  - [cs231n Youtube lectures](https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG)
  - [cs231n Project reports](http://cs231n.stanford.edu/reports.html)
  - [cs231n Reddit subgroup](https://www.reddit.com/r/cs231n/)
