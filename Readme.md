@@ -12,6 +12,8 @@ Notes
  - [cs231n Reddit subgroup](https://www.reddit.com/r/cs231n/)
  - [cs231n Github Repository](https://github.com/cs231n/cs231n.github.io)
  - [cs231n Twitter](https://twitter.com/cs231n)
+ - [Linear Classification Loss Visualization Demo](vision.stanford.edu/teaching/cs231n/linear-classify-demo/)
+  - [Linear classification notes](http://cs231n.github.io/linear-classify/)
 - Tutorials
  - [Yeh Tutorial: Deep learning + Jupyter + AWS/EC2](http://efavdb.com/deep-learning-with-jupyter-on-aws/)
  -[CS231n AWS tutorial](http://cs231n.github.io/aws-tutorial/)
