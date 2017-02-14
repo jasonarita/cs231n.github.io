@@ -6,6 +6,7 @@ Notes
 ----
 ## Resources dump
 - CS231 resources
+ - http://cs231n.github.io
  - [cs231n Syllabus (Slides + Notes)](http://cs231n.stanford.edu/syllabus.html)
  - [cs231n Youtube lectures](https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG)
  - [cs231n Project reports](http://cs231n.stanford.edu/reports.html)
@@ -14,6 +15,8 @@ Notes
  - [cs231n Twitter](https://twitter.com/cs231n)
  - [Linear Classification Loss Visualization Demo](vision.stanford.edu/teaching/cs231n/linear-classify-demo/)
   - [Linear classification notes](http://cs231n.github.io/linear-classify/)
+  - [cs231n python/numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+  - [cs231n ipython notebook tutorial](http://cs231n.github.io/ipython-tutorial/)
 - Tutorials
  - [Yeh Tutorial: Deep learning + Jupyter + AWS/EC2](http://efavdb.com/deep-learning-with-jupyter-on-aws/)
  -[CS231n AWS tutorial](http://cs231n.github.io/aws-tutorial/)
