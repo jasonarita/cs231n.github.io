@@ -15,9 +15,10 @@ Notes
  - [cs231n Twitter](https://twitter.com/cs231n)
  - [Linear Classification Loss Visualization Demo](vision.stanford.edu/teaching/cs231n/linear-classify-demo/)
   - [Linear classification notes](http://cs231n.github.io/linear-classify/)
-  - [cs231n python/numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
-  - [cs231n ipython notebook tutorial](http://cs231n.github.io/ipython-tutorial/)
+  - [cs231n notes: Visually understanding CNNs](http://cs231n.github.io/understanding-cnn/)
 - Tutorials
+ - [cs231n python/numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+ - [cs231n ipython notebook tutorial](http://cs231n.github.io/ipython-tutorial/)
  - [Yeh Tutorial: Deep learning + Jupyter + AWS/EC2](http://efavdb.com/deep-learning-with-jupyter-on-aws/)
  -[CS231n AWS tutorial](http://cs231n.github.io/aws-tutorial/)
 - Related courses
