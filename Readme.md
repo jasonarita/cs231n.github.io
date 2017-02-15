@@ -4,6 +4,12 @@ Notes and assignments for Stanford CS class [CS231n: Convolutional Neural Networ
 Notes
 
 ----
+## Workflow
+ - [cs231n Youtube lectures](https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG)
+
+
+
+----
 ## Resources dump
 - CS231 resources
  - http://cs231n.github.io
