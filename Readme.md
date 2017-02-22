@@ -10,6 +10,7 @@ Notes
 ----
 ## Notes
 - [Lecture 6: ConvNets: History, Motivation, Applications + Hubel Weisel](https://www.youtube.com/watch?v=egPTd9zZzec&feature=youtu.be&t=57m29s)
+- [Lecture 6: Dropout Layers (Regularization)](https://youtu.be/egPTd9zZzec?t=38m26s)
 
 
 ----
