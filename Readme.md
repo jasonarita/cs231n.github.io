@@ -7,6 +7,9 @@ Notes
 ## Workflow
  - [cs231n Youtube lectures](https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG)
 
+----
+## Notes
+- [Lecture 6: ConvNets: History, Motivation, Applications + Hubel Weisel](https://www.youtube.com/watch?v=egPTd9zZzec&feature=youtu.be&t=57m29s)
 
 
 ----
