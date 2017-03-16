@@ -19,12 +19,20 @@ def affine_forward(x, w, b):
   - out: output, of shape (N, M)
   - cache: (x, w, b)
   """
-  out = None
+  out = None 
   #############################################################################
   # TODO: Implement the affine forward pass. Store the result in out. You     #
   # will need to reshape the input into rows.                                 #
   #############################################################################
-  pass
+  
+  import numpy as np
+  length_D  = w.shape[0]
+  length_N  = x.shape[0]
+  x_reshape = x.reshape(length_N, length_D)
+  xw_prod   = np.dot(x_reshape, w)
+  # Using python broadcasting to add in the biases `b`
+  out       = xw_prod + b
+  
   #############################################################################
   #                             END OF YOUR CODE                              #
   #############################################################################
