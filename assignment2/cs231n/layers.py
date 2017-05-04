@@ -60,7 +60,16 @@ def affine_backward(dout, cache):
   #############################################################################
   # TODO: Implement the affine backward pass.                                 #
   #############################################################################
-  pass
+  length_D = w.shape[0]
+  length_M = w.shape[1]
+  length_N = x.shape[0]
+  
+  x_reshape = x.reshape(length_N, length_D)
+
+  
+  dx = dout.dot(w.transpose()).reshape([length_N] + list(x.shape[1:]))
+  dw = x_reshape.transpose().dot(dout)
+  db = sum(dout)
   #############################################################################
   #                             END OF YOUR CODE                              #
   #############################################################################
@@ -82,7 +91,10 @@ def relu_forward(x):
   #############################################################################
   # TODO: Implement the ReLU forward pass.                                    #
   #############################################################################
-  pass
+  import numpy as np
+  vectorized_max = np.vectorize(lambda y: max(0, y))
+  
+  out = vectorized_max(x)
   #############################################################################
   #                             END OF YOUR CODE                              #
   #############################################################################
@@ -105,7 +117,13 @@ def relu_backward(dout, cache):
   #############################################################################
   # TODO: Implement the ReLU backward pass.                                   #
   #############################################################################
-  pass
+  import numpy as np
+
+  vectorized_max = lambda y: 1 if y > 0 else 0
+  vectorized_max = np.vectorize(vectorized_max)
+
+  dx = vectorized_max(x) * dout
+    
   #############################################################################
   #                             END OF YOUR CODE                              #
   #############################################################################
